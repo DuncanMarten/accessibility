@@ -64,6 +64,7 @@ nav ul li {
     background-position: center;
 }
 
+/* Section Styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +75,6 @@ nav ul li {
     margin-left: 25px;
 }
 
-/* Section Styles */
 section {
     width: 75%;
     display: inline-block;
@@ -128,13 +128,13 @@ aside div img {
 }
 
 /* Footer Styles */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
